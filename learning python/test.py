@@ -12,3 +12,8 @@ print(z)
 #this should be a comment and should not effect the code
 print('this is a full string using single quotes')
 print('letter' [5])
+
+x = 4
+while x > 0:
+    print('spam!' * x)
+    x -= 1
